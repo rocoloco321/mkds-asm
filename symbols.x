@@ -201,3 +201,7 @@ g2du_unpackPaletteData = 0x020B4A7C;
 mutil2_loadPortraits = 0x02026E9E;
 _snprintf = 0x02135048;
 _s32_div_f = 0x02133068;
+mgcnt_updateDriverBalloonShineCount = 0x020A10F0;
+mgcnt_killDriverDirect = 0x020A1904;
+savd_getIsCupPlayed = 0x02060440;
+savd_getCupTrophy = 0x020603BC;
